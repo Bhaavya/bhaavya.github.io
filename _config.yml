@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "https://twitter.com/bhaavyaa7"
+  username               : "bhaavyaa7"
 facebook:
   username               :
   app_id                 :
@@ -83,8 +83,8 @@ author:
   name             : "Your Sidebar Name"
   avatar           : #"profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Urbana, IL"
-  employer         : "University of Illinois at Urbana-Champaign"
+  location         : #Urbana, IL"
+  employer         : "University of Illinois, Urbana-Champaign"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Y47rHIoAAAAJ&hl=en"
   email            : "bhavya2@illinois.edu"
