@@ -85,7 +85,7 @@ author:
   bio              : "Your biography for the left-hand sidebar"
   location         : "Urbana, IL"
   employer         : "University of Illinois at Urbana-Champaign
-#   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Y47rHIoAAAAJ&hl=en"
   email            : "bhavya2@illinois.edu"
   researchgate     :  "https://www.researchgate.net/profile/Bhavya"
@@ -97,11 +97,11 @@ author:
   facebook         :
   foursquare       :
   github           : "bhaavya"
-#   google_plus      :
-#   keybase          :
-#   instagram        :
-#   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-#   lastfm           : "
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm           : #"
   linkedin         : "https://www.linkedin.com/in/bhavya24/"
 #   orcid            : "http://orcid.org/yourorcidurl"
 #   pinterest        :
