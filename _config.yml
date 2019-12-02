@@ -85,10 +85,10 @@ author:
   bio              : "Your biography for the left-hand sidebar"
   location         : "Urbana, IL"
   employer         : "University of Illinois at Urbana-Champaign
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Y47rHIoAAAAJ&hl=en"
   email            : "bhavya2@illinois.edu"
-  researchgate     :  "https://www.researchgate.net/profile/Bhavya"
+  researchgate     : "https://www.researchgate.net/profile/Bhavya"
   uri              :
   bitbucket        :
   codepen          :
