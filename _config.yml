@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : "https://twitter.com/bhaavyaa7"
 facebook:
   username               :
   app_id                 :
@@ -71,7 +71,7 @@ social:
   links: # An array of links to social media profiles
 
 
-# Analytics
+Analytics
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
@@ -83,12 +83,12 @@ author:
   name             : "Your Sidebar Name"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  location         : "Urbana, IL"
+  employer         : "University of Illinois at Urbana-Champaign
+#   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=Y47rHIoAAAAJ&hl=en"
+  email            : "bhavya2@illinois.edu"
+  researchgate     :  "https://www.researchgate.net/profile/Bhavya"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,25 +96,25 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  github           : "bhaavya"
+#   google_plus      :
+#   keybase          :
+#   instagram        :
+#   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+#   lastfm           : "
+  linkedin         : "https://www.linkedin.com/in/bhavya24/"
+#   orcid            : "http://orcid.org/yourorcidurl"
+#   pinterest        :
+#   soundcloud       :
+#   stackoverflow    : # http://stackoverflow.com/users/123456/username
+#   steam            :
+#   tumblr           :
+#   twitter          : "replacethistwitterhandle"
+#   vine             :
+#   weibo            :
+#   xing             :
+#   youtube          :
+#   wikipedia        :
 
 
 # Reading Files
