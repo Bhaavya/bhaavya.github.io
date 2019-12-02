@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Bhavya"
 title_separator          : "-"
 name                     : &name "Bhavya"
-description              : &description "personal description"
+description              : &description ""
 url                      : https://bhaavya.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bhaavya.github.io"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : #"profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : #Urbana, IL"
-  employer         : "University of Illinois, Urbana-Champaign"
+  name             : "Bhavya"
+  avatar           : "profile.png"
+  bio              : "Master's student at the University of Illinois, Urbana-Champaign"
+  location         : "Urbana, IL, US"
+  employer         : #"University of Illinois, Urbana-Champaign"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Y47rHIoAAAAJ&hl=en"
   email            : "bhavya2@illinois.edu"
-  researchgate     : "https://www.researchgate.net/profile/Bhavya"
+  researchgate     : #"https://www.researchgate.net/profile/Bhavya"
   uri              :
   bitbucket        :
   codepen          :
