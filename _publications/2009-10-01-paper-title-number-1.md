@@ -10,7 +10,6 @@ citation: 'Labhishetty Sahiti*, <b>Bhavya*</b>, Kevin Pei*, Assma Boughoula, and
 
 
 ---
-
 <i>*denotes equal contribution<br></i>
 
 [Download paper<br><br>](http://bhaavya.github.io/files/wos_demo.pdf)
