@@ -14,7 +14,7 @@ citation: 'Labhishetty Sahiti*, <b>Bhavya*</b>, Kevin Pei*, Assma Boughoula, and
 
 ![WOS](http://bhaavya.github.io/images/wos_demo.png) <!-- .element height="1%" width="1%" -->
 
-<div style="text-align: justify"> Figure shows a snapshot of the WOSView tool used to navigate the Web of Slides (WOS).
+<div style="text-align: justify"> Figure shows a snapshot of the WOSView tool used to navigate the Web of Slides (WOS).<br><br>
 </div>
 
 [Download paper](http://bhaavya.github.io/files/wos_demo.pdf)
