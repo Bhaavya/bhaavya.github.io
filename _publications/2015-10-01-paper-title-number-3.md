@@ -10,7 +10,7 @@ venue: 'SIGCSE'
 paperurl: 'http://bhaavya.github.io/files/SIGCSE2020.pdf'
 
 ---
-
+![SIGCSE Image](http://bhaavya.github.io/images/sigcse.png)
 
 [Download paper here](http://bhaavya.github.io/files/SIGCSE2020.pdf)
 
