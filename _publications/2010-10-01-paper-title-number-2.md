@@ -7,14 +7,16 @@ present preliminary results of studying how to automatically create a basic link
 date: 2019-06-24
 venue: 'Learning @ Scale (L@S)'
 
-citation: 'Labhishetty Sahiti*, Bhavya*, Kevin Pei*, Assma Boughoula, and Chengxiang Zhai. "Web of Slides: Automatic Linking of Lecture Slides to Facilitate Navigation.", <i>In Proceedings of the Sixth (2019) ACM Conference on Learning@ Scale (L@S), </i> 2019.'
+citation: 'Labhishetty Sahiti*, Bhavya*, Kevin Pei*, Assma Boughoula, and Chengxiang Zhai. "Web of Slides: Automatic Linking of Lecture Slides to Facilitate Navigation.", In <i>Proceedings of the Sixth (2019) ACM Conference on Learning@ Scale (L@S), </i> 2019.' [Download paper](http://bhaavya.github.io/files/wos_wip.pdf)
+
+
 ---
 
+<i>*denotes equal contribution<br><br></i>
 
-[Download paper](http://bhaavya.github.io/files/wos_wip.pdf)
-![WOS](http://bhaavya.github.io/images/wos_wip.png)
+![WOS](http://bhaavya.github.io/images/wos_wip.png) <!-- .element height="1%" width="1%" -->
 
-<div style="text-align: justify"> Figure shows the different types of links that form the Web of Slides. Blue arrows represent different types of links between slides across courses. Black arrows denote sequential flow of slides in a lecture
+<div style="text-align: justify"> Figure shows the different types of links that form the Web of Slides. Blue arrows represent different types of links between slides across courses. Black arrows denote sequential flow of slides in a lecture.
 </div>
 
 
