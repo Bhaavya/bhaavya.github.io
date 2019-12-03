@@ -10,7 +10,7 @@ venue: 'SIGCSE [To Appear]'
 paperurl: 'http://bhaavya.github.io/files/SIGCSE2020.pdf'
 
 ---
-![SIGCSE Image](http://bhaavya.github.io/images/sigcse.png =100x100)
+![SIGCSE Image](http://bhaavya.github.io/images/sigcse.png)<!-- .element style="height="100px" width="100px"" -->
 
 Figure shows the overall assignment design for developing a novel Expert Search Engine application. The problem is decomposed into modules: (a) MP2.1, (b) MP2.2, (c) MP2.3, (d) MP2.4, (e) Project. In this way, students collectively build the search engine and also learn all the major stages of developing data science applications, namely, Data Collection, Analysis and Visualization/Application Development, in a hands-on fashion. Arrows in the figure mean data or algorithms developed in preceding modules are utilized.  
 
