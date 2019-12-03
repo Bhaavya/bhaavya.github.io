@@ -8,7 +8,7 @@ We report our experience with developing and deploying such an assignment in an 
 date: 2020
 venue: 'SIGCSE'
 paperurl: 'http://bhaavya.github.io/files/SIGCSE2020.pdf'
-citation: 'Bhavya,  Assma  Boughoula,  Aaron  Green,  and  ChengXiang  Zhai.  2020.Collective Development of Large Scale Data Science Products via Mod-ularized Assignments: An Experience Report. To Appear In The 51st ACM Technical Symposium on Computer Science Education (SIGCSE ’20), March 11–14, 2020, Portland, OR, USA.ACM, New York, NY, USA, 7 pages'
+
 ---
 This paper is about the number 3. The number 4 is left for future work.
 
