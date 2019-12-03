@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bhavya's Homepage"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Bhavya's Homepage"
 description              : &description ""
