@@ -1,3 +1,12 @@
+---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
 <object
   data="http://bhaavya.github.io/files/resume_bhavya.pdf"
   type="application/pdf"
