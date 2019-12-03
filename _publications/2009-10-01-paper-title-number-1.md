@@ -6,7 +6,7 @@ excerpt: 'We will demonstrate a prototype system WOSView built based on the visi
 date: 2019-06-24
 venue: 'Learning @ Scale (L@S)'
 
-citation: 'Labhishetty Sahiti*, Bhavya*, Kevin Pei*, Assma Boughoula, and Chengxiang Zhai. "WOSView Demo: A Tool to Explore the Web of Slides." In <i> Proceedings of the Sixth (2019) ACM Conference on Learning@ Scale (L@S)</i>, 2019' 
+citation: 'Labhishetty Sahiti*, <b>Bhavya*<b>, Kevin Pei*, Assma Boughoula, and Chengxiang Zhai. "WOSView Demo: A Tool to Explore the Web of Slides." In <i> Proceedings of the Sixth (2019) ACM Conference on Learning@ Scale (L@S)</i>, 2019' 
 
 
 ---
