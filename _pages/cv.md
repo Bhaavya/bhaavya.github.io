@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+{% include base_path %}
 <object
   data="http://bhaavya.github.io/files/resume_bhavya.pdf"
   type="application/pdf"
