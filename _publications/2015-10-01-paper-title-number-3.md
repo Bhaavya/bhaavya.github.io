@@ -6,7 +6,7 @@ excerpt: "Many universities are offering data science (DS) courses to fulfill th
 
 We report our experience with developing and deploying such an assignment in an Information Retrieval course. Through the assignment, students collectively developed a search engine for finding expert faculty specializing in a given field. This shows the utility of such assignments both for teaching useful DS skills and driving innovation and research. We share useful lessons for other instructors to adopt similar assignments for their DS courses."
 date: 2020-11-03
-venue: 'SIGCSE'
+venue: 'SIGCSE [To Appear]'
 paperurl: 'http://bhaavya.github.io/files/SIGCSE2020.pdf'
 
 ---
