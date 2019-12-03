@@ -1,15 +1,20 @@
 ---
-title: "Paper Title Number 2"
+title: "Web of Slides: Automatic Linking of Lecture Slides to Facilitate Navigation"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2019-wos-wip
+excerpt: 'Lecture slides covering many topics are becoming increasingly available online, but they are scattered, making it a challenge for anyone to instantly access all slides relevant to a learning context. To address this challenge, we propose to create links between those scattered slides to form a Web of Slides (WOS). Using the sequential nature of slides, we
+present preliminary results of studying how to automatically create a basic link based on similarity of slides as an initial step toward the vision of WOS. We also explore interesting future research directions using different link types and the unique features of slides.'
+date: 2019-06-24
+venue: 'Learning @ Scale (L@S)'
+paperurl: 'http://bhaavya.github.io/files/wos_wip.pdf'
+citation: 'Labhishetty Sahiti*, Bhavya*, Kevin Pei*, Assma Boughoula, and Chengxiang Zhai. "Web of Slides: Automatic Linking of Lecture Slides to Facilitate Navigation.", <i>In Proceedings of the Sixth (2019) ACM Conference on Learning@ Scale (L@S), <\i> 2019.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+[Download paper here](http://bhaavya.github.io/files/wos_wip.pdf)
+[!WOS] (http://bhaavya.github.io/images/wos_wip.png)
+
+<div style="text-align: justify"> Figure shows the different types of links that form the Web of Slides. Blue arrows represent different types of links between slides across courses. Black arrows denote sequential flow of slides in a lecture
+</div>
+
+
