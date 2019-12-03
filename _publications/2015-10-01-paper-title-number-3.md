@@ -10,7 +10,7 @@ venue: 'SIGCSE [To Appear]'
  
 
 ---
-'<b>Bhavya</b>, Assma Boughoula, Aaron Green, and Chengxiang Zhai. “Collective Development of Large Scale Data Science Products via Modularized Assignments: An Experience Report”, To Appear In <i>Proceedings of the 51st ACM Technical Symposium on Computer Science Education (SIGCSE)</i>, 2020.'
+<b>Bhavya</b>, Assma Boughoula, Aaron Green, and Chengxiang Zhai. “Collective Development of Large Scale Data Science Products via Modularized Assignments: An Experience Report”, To Appear In <i>Proceedings of the 51st ACM Technical Symposium on Computer Science Education (SIGCSE)</i>, 2020.
 
 ![SIGCSE Image](http://bhaavya.github.io/images/sigcse.png) <!-- .element height="50px" width="50px" -->
 
