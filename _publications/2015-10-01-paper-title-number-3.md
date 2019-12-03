@@ -10,8 +10,8 @@ venue: 'SIGCSE'
 paperurl: 'http://bhaavya.github.io/files/SIGCSE2020.pdf'
 
 ---
-This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+[Download paper here](http://bhaavya.github.io/files/SIGCSE2020.pdf)
+
+Recommended citation: Bhavya, Assma Boughoula, Aaron Green, and Chengxiang Zhai. “Collective Development of Large Scale Data Science Products via Modularized Assignments: An Experience Report”, To Appear In Proceedings of the 51st ACM Technical Symposium on Computer Science Education (SIGCSE), 2020.
