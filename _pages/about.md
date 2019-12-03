@@ -12,4 +12,6 @@ I'm a second year Master's student at the [University of Illinois, Urbana-Champa
 Prior to joining UIUC for M.S., I worked at [Gartner Inc.](https://www.gartner.com/en) as a Junior Data Scientist for two years ([Short Employee Spotlight video](https://www.youtube.com/watch?v=wx9wXUjYo5k)) after completing my Bachelor's in Computer Science from UIUC. 
 
 
+[Download CV](http://bhaavya.github.io/files/resume_bhavya.pdf)
+
 
