@@ -6,7 +6,7 @@ excerpt: 'Lecture slides covering many topics are becoming increasingly availabl
 present preliminary results of studying how to automatically create a basic link based on similarity of slides as an initial step toward the vision of WOS. We also explore interesting future research directions using different link types and the unique features of slides.'
 date: 2019-06-24
 venue: 'Learning @ Scale (L@S)'
-paperurl: 'http://bhaavya.github.io/files/wos_wip.pdf'
+
 citation: 'Labhishetty Sahiti*, Bhavya*, Kevin Pei*, Assma Boughoula, and Chengxiang Zhai. "Web of Slides: Automatic Linking of Lecture Slides to Facilitate Navigation.", <i>In Proceedings of the Sixth (2019) ACM Conference on Learning@ Scale (L@S), <\i> 2019.'
 ---
 
