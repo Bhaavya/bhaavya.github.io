@@ -10,9 +10,7 @@ venue: 'SIGCSE'
 paperurl: 'http://bhaavya.github.io/files/SIGCSE2020.pdf'
 
 ---
-<div style="text-align: justify"> Bhavya, Assma Boughoula, Aaron Green, and Chengxiang Zhai. “Collective Development of Large Scale Data Science Products via Modularized Assignments: An Experience Report”, To Appear In Proceedings of the 51st ACM Technical Symposium on Computer Science Education (SIGCSE), 2020. </div>
-
-[Download paper](http://bhaavya.github.io/files/SIGCSE2020.pdf)
+Bhavya, Assma Boughoula, Aaron Green, and Chengxiang Zhai. “Collective Development of Large Scale Data Science Products via Modularized Assignments: An Experience Report”, To Appear In Proceedings of the 51st ACM Technical Symposium on Computer Science Education (SIGCSE), 2020. [Download paper](http://bhaavya.github.io/files/SIGCSE2020.pdf)
 
 
 ![SIGCSE Image](http://bhaavya.github.io/images/sigcse.png) <!-- .element height="0.001%" width="0.001%" -->
