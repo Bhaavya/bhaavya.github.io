@@ -10,7 +10,9 @@ venue: 'SIGCSE [To Appear]'
 paperurl: 'http://bhaavya.github.io/files/SIGCSE2020.pdf'
 
 ---
-![SIGCSE Image](http://bhaavya.github.io/images/sigcse.png)
+![SIGCSE Image](http://bhaavya.github.io/images/sigcse.png =100x220)
+
+Figure shows the overall assignment design for developing a novel Expert Search Engine application. The problem is decomposed into modules: (a) MP2.1, (b) MP2.2, (c) MP2.3, (d)MP2.4, (e) Project. These correspond to the general stages of developing DS applications, namely, Data Collection, Analysis and Visualization/Application Development. Arrows mean data or algorithms developed in preceding modules are utilized.
 
 [Download paper here](http://bhaavya.github.io/files/SIGCSE2020.pdf)
 
