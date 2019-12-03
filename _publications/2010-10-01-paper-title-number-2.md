@@ -10,7 +10,7 @@ venue: 'Learning @ Scale (L@S)'
 
 
 ---
-Labhishetty Sahiti<i>*<i>, <b>Bhavya*</b>, Kevin Pei<i>*<i>,, Assma Boughoula, and Chengxiang Zhai. "Web of Slides: Automatic Linking of Lecture Slides to Facilitate Navigation.", In <i>Proceedings of the Sixth (2019) ACM Conference on Learning@ Scale (L@S), </i> 2019. <br>
+Labhishetty Sahiti&ast;, <b>Bhavya*</b>, Kevin Pei&ast;, Assma Boughoula, and Chengxiang Zhai. "Web of Slides: Automatic Linking of Lecture Slides to Facilitate Navigation.", In <i>Proceedings of the Sixth (2019) ACM Conference on Learning@ Scale (L@S), </i> 2019. <br>
 <i>*denotes equal contribution<br></i>
 
 ![WOS](http://bhaavya.github.io/images/wos_wip.png) <!-- .element height="1%" width="1%" -->
