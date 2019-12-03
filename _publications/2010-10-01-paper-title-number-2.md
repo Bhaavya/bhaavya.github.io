@@ -7,7 +7,7 @@ present preliminary results of studying how to automatically create a basic link
 date: 2019-06-24
 venue: 'Learning @ Scale (L@S)'
 
-citation: 'Labhishetty Sahiti*, Bhavya*, Kevin Pei*, Assma Boughoula, and Chengxiang Zhai. "Web of Slides: Automatic Linking of Lecture Slides to Facilitate Navigation.", <i>In Proceedings of the Sixth (2019) ACM Conference on Learning@ Scale (L@S), <\i> 2019.'
+citation: 'Labhishetty Sahiti*, Bhavya*, Kevin Pei*, Assma Boughoula, and Chengxiang Zhai. "Web of Slides: Automatic Linking of Lecture Slides to Facilitate Navigation.", <i>In Proceedings of the Sixth (2019) ACM Conference on Learning@ Scale (L@S), </i> 2019.'
 ---
 
 
