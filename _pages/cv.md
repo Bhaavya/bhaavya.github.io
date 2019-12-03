@@ -11,21 +11,24 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
+* University of Illinois at Urbana-Champaign	
 * M.S. in Jekyll, GitHub University, 2014
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* University of Illinois at Urbana-Champaign				            		             Aug 2018-May 2020
+    * MS (with Thesis) in Computer Science							                          GPA: 4.0/4.0
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* University of Illinois at Urbana-Champaign				            			                    Aug 2014-Aug 2016 
+  *	BS in Computer Science with Honors			           		            	                       GPA: 3.63/4.0
+
+* Manipal University, India 			            			                                          Aug 2012-Jul 2014 
+  * Completed coursework towards BS in Computer Science			           		                        GPA: 3.89/4.0
+
+* Relevant Coursework:
+    * Data Mining, Information Extraction, Machine Learning, Information Retrieval, UI Design, Algorithms
+
   
 Skills
 ======
