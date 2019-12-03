@@ -6,15 +6,15 @@ excerpt: "Many universities are offering data science (DS) courses to fulfill th
 
 We report our experience with developing and deploying such an assignment in an Information Retrieval course. Through the assignment, students collectively developed a search engine for finding expert faculty specializing in a given field. This shows the utility of such assignments both for teaching useful DS skills and driving innovation and research. We share useful lessons for other instructors to adopt similar assignments for their DS courses."
 date: 2020-11-03
-venue: 'SIGCSE [To Appear]'
+venue: 'SIGCSE'
 paperurl: 'http://bhaavya.github.io/files/SIGCSE2020.pdf'
 
 ---
-Citation: <div style="text-align: justify"> Bhavya, Assma Boughoula, Aaron Green, and Chengxiang Zhai. “Collective Development of Large Scale Data Science Products via Modularized Assignments: An Experience Report”, To Appear In Proceedings of the 51st ACM Technical Symposium on Computer Science Education (SIGCSE), 2020. </div>
+<div style="text-align: justify"> Citation: Bhavya, Assma Boughoula, Aaron Green, and Chengxiang Zhai. “Collective Development of Large Scale Data Science Products via Modularized Assignments: An Experience Report”, To Appear In Proceedings of the 51st ACM Technical Symposium on Computer Science Education (SIGCSE), 2020. </div>
 
 [Download paper here](http://bhaavya.github.io/files/SIGCSE2020.pdf)
 
-![SIGCSE Image](http://bhaavya.github.io/images/sigcse.png) <!-- .element height="0.01%" width="0.01%" -->
+![SIGCSE Image](http://bhaavya.github.io/images/sigcse.png) <!-- .element height="0.001%" width="0.001%" -->
 
 <div style="text-align: justify"> Figure shows the overall assignment design for developing a novel Expert Search Engine application. The problem is decomposed into modules: (a) MP2.1, (b) MP2.2, (c) MP2.3, (d) MP2.4, (e) Project. In this way, students collectively build the search engine and also learn all the major stages of developing data science applications, namely, Data Collection, Analysis and Visualization/Application Development, in a hands-on fashion. Arrows in the figure mean data or algorithms developed in preceding modules are utilized.  </div>
   
