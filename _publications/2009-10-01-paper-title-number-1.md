@@ -8,7 +8,7 @@ venue: 'Learning @ Scale (L@S)'
 
 
 ---
-Labhishetty Sahiti &ast;, <b>Bhavya &ast;</b>, Kevin Pei &ast;, Assma Boughoula, and Chengxiang Zhai. "WOSView Demo: A Tool to Explore the Web of Slides." In <i> Proceedings of the Sixth (2019) ACM Conference on Learning@ Scale (L@S)</i>, 2019. <br> 
+Labhishetty Sahiti\*;, <b>Bhavya</b>\*, Kevin Pei\*;, Assma Boughoula, and Chengxiang Zhai. "WOSView Demo: A Tool to Explore the Web of Slides." In <i> Proceedings of the Sixth (2019) ACM Conference on Learning@ Scale (L@S)</i>, 2019. <br> 
 <i>*denotes equal contribution<br><br></i>
 
 ![WOS](http://bhaavya.github.io/images/wos_demo.png) <!-- .element height="1%" width="1%" -->
