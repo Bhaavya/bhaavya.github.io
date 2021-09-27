@@ -10,7 +10,7 @@ venue: 'ACM Learning@Scale (L@S)'
 ---
 <b>Bhavya</b> and Chengxiang Zhai. “Explanation Mining”, In <i>Proceedings of the Seventh ACM Conference on Learning @ Scale (L@S)</i>, 2020.
 
-![SIGCSE Image](http://bhaavya.github.io/images/exp.png) <!-- .element height="50px" width="50px" -->
+![EM Image](http://bhaavya.github.io/images/exp.png) <!-- .element height="50px" width="50px" -->
 
 <div style="text-align: justify"> Illustration of Explanation Mining subtasks. Sections in green
 are candidate explanations for “BFS" and those in orange are for “crawling web pages". The “Reason" at the bottom is the explanation for the
