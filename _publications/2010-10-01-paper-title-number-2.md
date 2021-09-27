@@ -5,7 +5,7 @@ permalink: /publication/2019-wos-wip
 excerpt: 'Lecture slides covering many topics are becoming increasingly available online, but they are scattered, making it a challenge for anyone to instantly access all slides relevant to a learning context. To address this challenge, we propose to create links between those scattered slides to form a Web of Slides (WOS). Using the sequential nature of slides, we
 present preliminary results of studying how to automatically create a basic link based on similarity of slides as an initial step toward the vision of WOS. We also explore interesting future research directions using different link types and the unique features of slides.'
 date: 2019-06-24
-venue: 'Learning @ Scale (L@S)'
+venue: 'ACM Learning @ Scale (L@S)'
 
 
 
