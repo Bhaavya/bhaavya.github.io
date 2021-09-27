@@ -17,7 +17,7 @@ are candidate explanations for “BFS" and those in orange are for “crawling w
 implied question “Why is BFS a major crawling strategy?". <br><br>
 </div>
 
-[Download paper<br>](https://bhaavya.github.io/files/exp.pdf)
+[Read paper<br>](https://bhaavya.github.io/files/exp.pdf)
 [Demo](http://timan102.cs.illinois.edu/explanation//next_slide/cs-410/0/cs-410----01_orientation----01_orientation-information----01_course-introduction-video_410DSO-intro.txt----slide0.pdf)
   
 

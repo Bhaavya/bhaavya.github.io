@@ -18,6 +18,6 @@ Labhishetty Sahiti\* , <b>Bhavya</b>\* , Kevin Pei\* , Assma Boughoula, and Chen
 <div style="text-align: justify"> Figure shows the different types of links that form the Web of Slides. Blue arrows represent different types of links between slides across courses. Black arrows denote sequential flow of slides in a lecture.<br><br>
 </div>
 
-[Download paper<br><br>](http://bhaavya.github.io/files/wos_wip.pdf)
+[Read paper<br><br>](http://bhaavya.github.io/files/wos_wip.pdf)
 
 

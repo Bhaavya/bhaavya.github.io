@@ -16,6 +16,6 @@ Labhishetty Sahiti\*, <b>Bhavya</b>\*, Kevin Pei\*, Assma Boughoula, and Chengxi
 <div style="text-align: justify"> Figure shows a snapshot of the WOSView tool used to navigate the Web of Slides (WOS).<br><br>
 </div>
 
-[Download paper](http://bhaavya.github.io/files/wos_demo.pdf)
+[Read paper](http://bhaavya.github.io/files/wos_demo.pdf)
 
 
