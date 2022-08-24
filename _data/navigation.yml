@@ -1,10 +1,10 @@
 # main links links
 main:
   - title: "CV"
-    url: /publications/
+    url: http://bhaavya.github.io/files/resume_bhavya.pdf
     
   - title: "Publications"
-    url: http://bhaavya.github.io/files/resume_bhavya.pdf
+    url: /publications/
 
 
 
