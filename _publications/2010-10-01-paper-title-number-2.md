@@ -4,9 +4,6 @@ collection: publications
 permalink: /publication/2019-wos-wip
 date: 2019-06-24
 venue: 'ACM Learning @ Scale (L@S)'
-
-
-
 ---
 Labhishetty Sahiti\* , <b>Bhavya</b>\* , Kevin Pei\* , Assma Boughoula, and Chengxiang Zhai. "Web of Slides: Automatic Linking of Lecture Slides to Facilitate Navigation.", In <i>Proceedings of the Sixth (2019) ACM Conference on Learning@ Scale (L@S), </i> 2019. <br>
 <i>*denotes equal contribution<br></i>

@@ -4,8 +4,6 @@ collection: publications
 permalink: /publication/2020-exp 
 date: 2020-08-20
 venue: 'ACM Learning@Scale (L@S)'
- 
-
 ---
 <b>Bhavya</b> and Chengxiang Zhai. “Explanation Mining”, In <i>Proceedings of the Seventh ACM Conference on Learning @ Scale (L@S)</i>, 2020.
 

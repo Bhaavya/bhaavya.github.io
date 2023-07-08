@@ -4,8 +4,6 @@ collection: publications
 permalink: /publication/2020-sigcse
 date: 2020-03-11
 venue: 'SIGCSE'
- 
-
 ---
 <b>Bhavya</b>, Assma Boughoula, Aaron Green, and Chengxiang Zhai. “Collective Development of Large Scale Data Science Products via Modularized Assignments: An Experience Report”, In <i>Proceedings of the 51st ACM Technical Symposium on Computer Science Education (SIGCSE)</i>, 2020.
 
@@ -15,7 +13,7 @@ venue: 'SIGCSE'
 </div>
 
 [Read paper<br>](http://bhaavya.github.io/files/SIGCSE2020.pdf)
-[Go to the Expert Search Engine developed by students!](http://timan102.cs.illinois.edu/expertsearch)
+[Expert Search Engine developed by students!](http://timan.cs.illinois.edu/expertsearch)
   
 
 
