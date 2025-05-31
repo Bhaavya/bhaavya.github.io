@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Bhavya"
   avatar           : "profile.png"
-  bio              : "Ph.D. candidate at the University of Illinois,<br> Urbana-Champaign"
-  location         : "Urbana, IL, US"
+  bio              : "AI Research Scientist,<br> IBM Research"
+  location         : "NY, US"
   employer         : #"University of Illinois, Urbana-Champaign"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Y47rHIoAAAAJ&hl=en"
-  email            : "bhavya2@illinois.edu"
+  email            : "bhavya@ibm.com"
   researchgate     : #"https://www.researchgate.net/profile/Bhavya"
   uri              :
   bitbucket        :
